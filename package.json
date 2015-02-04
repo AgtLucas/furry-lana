@@ -1,0 +1,19 @@
+{
+  "name": "furry-lana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AgtLucas/furry-lana.git"
+  },
+  "author": "Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/furry-lana/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/furry-lana"
+}
